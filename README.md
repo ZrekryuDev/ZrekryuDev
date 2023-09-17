@@ -10,4 +10,4 @@ You can email me on zrekryudev@gmail.com
 
 ### Social Media
 
-![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white): [@ZrekryuDev](https://t.me/ZrekryuDev)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZrekryuDev)
